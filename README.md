@@ -12,8 +12,8 @@ The script will look for the configuration in `~/.podcast-downloader.yml`.
 
 Example configuration:
 
-
-```yaml
+lang=yaml
+```
 download_dir: "~/podcasts"  # where to download the podcasts
 log_file: "~/.podcast-downloader.log" # where to store the download log (better to keep as-is).
 podcasts:
