@@ -26,3 +26,8 @@ podcasts:
 # Mozilla IRL	
     - https://feeds.mozilla-podcasts.org/irl
 ```
+
+
+## Running
+
+In the project directory, run `node index.js` and the download will start.
